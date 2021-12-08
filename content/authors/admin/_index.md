@@ -6,7 +6,7 @@ title: Dylan Arzoni
 superuser: true
 
 # Role/position/tagline
-role: Student-Athlete at George Washington University, Washington, D.C.
+role: Student-Athlete at The George Washington University, Washington, D.C.
 
 # Organizations/Affiliations to show in About widget
 organizations:
