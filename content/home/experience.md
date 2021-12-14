@@ -43,7 +43,8 @@ experience:
     location: Washingtnon D.C.
     date_start: '2021-09-20'
     date_end: 'Present'
-    description: Formulated, researched and conducted interviews at Lisner Auditorium, with guests including U.S. Olympian Katie Ledecky. 
+    description: |2-
+    
 
 design:
   columns: '2'
