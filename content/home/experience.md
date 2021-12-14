@@ -27,7 +27,7 @@ experience:
     company_url: 
     company_logo: 
     location: Washington DC
-    date_start: '2021-01-01
+    date_start: '2021-01-01'
     date_end: 'Present'
     description: |2-
         Responsibilities include:
