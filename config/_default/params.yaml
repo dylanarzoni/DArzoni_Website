@@ -20,28 +20,24 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: dylanarzoni@gwu.edu
+phone: 202 660-6082
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 2407 I Street NW
+  city: Washingon 
+  region: DC
+  postcode: '20037'
   country: United States
   country_code: US
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-appointment_url: 'https://calendly.com'
+  latitude: '38.900950'
+  longitude: '-77.052260'
+appointment_url: ''
 contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
+    link: 'https://twitter.com/dylanarzoni'
 
 # Site header
 
