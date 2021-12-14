@@ -22,12 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Interviewer / Moderator 
-    company: George Washington University Program Board
+  - title: Intern
+    company: BBC News
     company_url: 
     company_logo: 
-    location: Washington, D.C. 
-    date_start: '2022-01-01
+    location: Washington DC
+    date_start: '2021-01-01
     date_end: 'Present'
     description: |2-
         Responsibilities include:
@@ -40,7 +40,7 @@ experience:
     company:George Washington University Program Board
     company_url: ''
     company_logo:
-    location: Washingtnon, D.C.
+    location: Washingtnon D.C.
     date_start: '2021-09-20'
     date_end: 'Present'
     description: Formulated, researched and conducted interviews at Lisner Auditorium, with guests including U.S. Olympian Katie Ledecky. 
