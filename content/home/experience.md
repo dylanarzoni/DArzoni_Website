@@ -37,7 +37,7 @@ experience:
         * Working with anchors for the World News broadcasts
         
   - title: Interviewer / Moderator 
-    company:George Washington University Program Board
+    company: George Washington University Program Board
     company_url: ''
     company_logo:
     location: Washingtnon D.C.
