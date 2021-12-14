@@ -28,7 +28,7 @@ experience:
     company_logo: 
     location: Washington, D.C. 
     date_start: '2022-01-01
-    date_end: ''
+    date_end: 'Present'
     description: |2-
         Responsibilities include:
         
@@ -39,7 +39,7 @@ experience:
   - title: Interviewer / Moderator 
     company:George Washington University Program Board
     company_url: ''
-    company_logo: org-x
+    company_logo:
     location: Washingtnon, D.C.
     date_start: '2021-09-20'
     date_end: 'Present'
