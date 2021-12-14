@@ -28,13 +28,8 @@ experience:
     company_logo: 
     location: Washington DC
     date_start: '2021-01-01'
-    date_end: 'Present'
+    date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Researching
-        * Booking Guests
-        * Working with anchors for the World News broadcasts
         
   - title: Interviewer / Moderator 
     company: George Washington University Program Board
@@ -42,7 +37,7 @@ experience:
     company_logo:
     location: Washingtnon D.C.
     date_start: '2021-09-20'
-    date_end: 'Present'
+    date_end: ''
     description: |2-
     
 
