@@ -1,6 +1,6 @@
 ---
-title: Charles De Gaulle: The London Exile, 1941-1944
-summary:
+title: Charles De Gaulle: The London Exile
+summary: History of how Charles de Gaulle led the French Resistance from London
 tags:
 - Demo
 date: "2016-04-27T00:00:00Z"
